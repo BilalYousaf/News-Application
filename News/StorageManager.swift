@@ -1,20 +1,10 @@
 //
 //  StorageManager.swift
-//  Questionare App
-//
-//  Created by Salman on 1/3/18.
-//  Copyright © 2018 antzion. All rights reserved.
-//
+
 
 import Foundation
 
-//
-//  StorageManager.swift
-//  Development Test
-//
-//  Created by Salman on 12/07/2017.
-//  Copyright © 2017 Salman. All rights reserved.
-//
+
 
 import Foundation
 import UIKit
