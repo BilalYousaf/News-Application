@@ -1,10 +1,3 @@
-//
-//  ApiManager.swift
-//  Questionare App
-//
-//  Created by Salman on 12/26/17.
-//  Copyright © 2017 antzion. All rights reserved.
-//
 
 import UIKit
 
